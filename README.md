@@ -4,9 +4,9 @@
 
 ### 🏠 Home & Firm Module
 - Home Page
-![Home Page](HEALTH_GUIDE_SS/HOME_PAGE.png)
+![Home Page](HOME_PAGE.png)
 - Firm Registration
-![Home Page](HEALTH_GUIDE_SS/FIRMSREGISTRATION.png)
+![Home Page](FIRMSREGISTRATION.png)
 
 - Firm Login
 - Firm Details
