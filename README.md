@@ -31,9 +31,14 @@
 
 ![Home Page](FIRMSUPDATEFIRMSDETAILS.png)
 
-- Firm Delete Patient's Details
+- Firm Search Patient's Details
 
-![Home Page](FIRMSLOGINPAGE.png)
+![Home Page](FIRMSSEARCHPATIENTSDETAILS.png)
+
+- Patient's Details After Firm's Search
+
+![Home Page](FIRMSSEARCHPATIENTSDETAILS.png)
+
 
 
 
