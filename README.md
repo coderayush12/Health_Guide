@@ -29,7 +29,7 @@
 
 - Firm Update Firm's Details
 
-![Home Page](FIRMSUPDATEFIRM'SDETAILS.png)
+![Home Page](FIRMSUPDATEFIRMSDETAILS.png)
 
 - Firm Delete Patient's Details
 
