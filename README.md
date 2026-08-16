@@ -23,13 +23,13 @@
 
 ![Home Page](FIRMSWELCOMEPAGE.png)
 
-- Firm View Patient's Details
+- Firm View Firm's Details
 
-![Home Page](FIRMSLOGINPAGE.png)
+![Home Page](FIRMSVIEWFIRMSDETAILS.png)
 
-- Firm Update Patient's Details
+- Firm Update Firm's Details
 
-![Home Page](FIRMSLOGINPAGE.png)
+![Home Page](FIRMSUPDATEFIRM'SDETAILS.png)
 
 - Firm Delete Patient's Details
 
