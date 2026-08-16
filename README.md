@@ -1,5 +1,38 @@
 # 🏥 Health Guide – JDBC Web Application
 
+## 🖥️ Application Screenshots
+
+### 🏠 Home & Firm Module
+- Home Page
+![Home Page](HEALTH_GUIDE_SS/HOME_PAGE.png)
+- Firm Registration
+![Home Page](HEALTH_GUIDE_SS/FIRMSREGISTRATION.png)
+
+- Firm Login
+- Firm Details
+
+### 👨‍⚕️ Doctor Module
+- Doctor Login
+- Doctor Registration
+- Doctor Registration Success
+- Doctor Prescription
+- Update Doctor
+- View Doctor Details
+
+### 🧑‍🤝‍🧑 Patient Module
+- Patient Login
+- Patient Registration
+- Patient Registration Success
+- Search Patient
+- Update Patient
+- View Patient Details
+
+### 💊 Prescription Module
+- Enter Prescription
+- Search Prescription
+- Update Prescription
+- Close Prescription
+
 ## 📌 Project Overview
 
 **Health Guide** is a Java-based web application developed using **JDBC, Servlets, JSP/HTML, and MySQL**.
