@@ -37,7 +37,7 @@
 
 - Patient's Details After Firm's Search
 
-![Home Page](FIRMSSEARCHPATIENTSDETAILS.png)
+![Home Page](PATIENTSDETAILSAFTERFIRMSSEARCH.png)
 
 
 
