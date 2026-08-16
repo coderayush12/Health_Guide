@@ -4,12 +4,27 @@
 
 ### 🏠 Home & Firm Module
 - Home Page
+
 ![Home Page](HOME_PAGE.png)
+
 - Firm Registration
+
 ![Home Page](FIRMSREGISTRATION.png)
 
+- Firm Record Inserted Successfully
+
+![Home Page](FIRMSRECORDINSERTEDSUCCESSFULLY.png)
+
 - Firm Login
-- Firm Details
+
+![Home Page](FIRMSLOGINPAGE.png)
+
+- Firm Welcome Page
+
+![Home Page](FIRMSWELCOMEPAGE.png)
+
+
+
 
 ### 👨‍⚕️ Doctor Module
 - Doctor Login
