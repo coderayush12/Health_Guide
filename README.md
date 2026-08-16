@@ -39,6 +39,11 @@
 
 ![Home Page](PATIENTSDETAILSAFTERFIRMSSEARCH.png)
 
+- Display Patient's Prescription After Firm's Search
+
+![Home Page](DISPLAYPATIENTSPRESCRIPTIONAFTERFIRMSSEARCH.png)
+
+
 
 
 
