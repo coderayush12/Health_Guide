@@ -108,9 +108,26 @@
 
 ![Home Page](VIEWPATIENTSCLOSEDPRESCRIPTIONS.png)
 
-- View Patient's Closed Prescriptions
+- View Patient's Open Prescriptions
 
 ![Home Page](VIEWPATIENTSOPENPRESCRIPTION.png)
+
+- Search Patient From Home Page
+
+![Home Page](SEARCHPATIENTFROMHOME.png)
+
+- Search Patient By City From Home Page
+
+![Home Page](SEARCHPATIENTBYCITYFROMHOMEPAGE.png)
+
+- Deleted Patient's Details
+
+![Home Page](DELETEPATIENTSDETAILS.png)
+
+- Deleted Patient's Record Successfully
+
+![Home Page](PATIENTSRECORDDELETEDSUCCESSFULLY.png)
+
 
 
 
