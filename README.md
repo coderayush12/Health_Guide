@@ -137,6 +137,25 @@
 - Update Prescription
 - Close Prescription
 
+![Home Page](CLOSEAPRESCRIPTION.png)
+
+- Display Patient's Prescription After Searching
+
+![Home Page](DISPLAYINGPATIENTSPRESCRIPTIONAFTERSEARCHING.png)
+
+- Display Patient's Prescription After Searching By Patient's City
+
+![Home Page](DISPLAYINGPATIENTSPRESCRIPTIONAFTERSEARCHINGBYPATIENTCITY.png)
+
+- Display Patient's Prescription After Searching By Date
+
+![Home Page](DISPLAYPATIENTSPRESCRIPTIONAFTERSEARCHINGBYdDATE.png)
+
+
+
+
+
+
 ## 📌 Project Overview
 
 **Health Guide** is a Java-based web application developed using **JDBC, Servlets, JSP/HTML, and MySQL**.
