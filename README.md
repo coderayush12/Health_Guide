@@ -132,7 +132,6 @@
 
 
 ### 💊 Prescription Module
-- Enter Prescription
 - Search Patient's Prescription
 
 ![Home Page](SEARCHPATIENTSPRESCRIPTION.png)
@@ -149,7 +148,6 @@
 
 ![Home Page](VIEWPATIENTSOPENPRESCRIPTION.png)
 
-- Update Prescription
 - Close Prescription
 
 ![Home Page](CLOSEAPRESCRIPTION.png)
