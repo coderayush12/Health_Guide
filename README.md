@@ -50,19 +50,52 @@
 
 ### 👨‍⚕️ Doctor Module
 - Doctor Login
+
+![Home Page](DOCTOR'S_LOGINPAGE.png)
+
 - Doctor Registration
+
+![Home Page](DOCTOR'S_REGISTRATIONPAGE.png)
+
 - Doctor Registration Success
-- Doctor Prescription
-- Update Doctor
-- View Doctor Details
+
+![Home Page](DOCTOR'S_REGISTRATION_SUCCESSFUL.png)
+
+- Doctor Searches Patient's Details
+
+![Home Page](SEARCHPATIENT'SDETAILSBYDOC.png)
+
+- View Doctor's Details
+
+![Home Page](VIEWDOCTOR'S_DETAILS.png)
+
+
 
 ### 🧑‍🤝‍🧑 Patient Module
 - Patient Login
+
+![Home Page](PATIENTSLOGIN.png)
+
 - Patient Registration
+
+![Home Page](PATIENTSREGISTRATIONFORM.png)
+
 - Patient Registration Success
-- Search Patient
+
+![Home Page](PATIENTINSERTEDSUCCESSFULLY.png)
+
+- Search Patient By City From Home Page
+
+![Home Page](SEARCHPATIENTBYCITYFROMHOMEPAGE.png)
+
 - Update Patient
+
+![Home Page](DOCTOR'S_REGISTRATION_SUCCESSFUL.png)
+
 - View Patient Details
+
+![Home Page](DOCTOR'S_REGISTRATION_SUCCESSFUL.png)
+
 
 ### 💊 Prescription Module
 - Enter Prescription
