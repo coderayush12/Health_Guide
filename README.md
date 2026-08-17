@@ -72,15 +72,19 @@
 
 
 ### 🧑‍🤝‍🧑 Patient Module
-- Patient Login
+- Patient's Login
 
 ![Home Page](PATIENTSLOGIN.png)
 
-- Patient Registration
+- Patient'S Registration
 
 ![Home Page](PATIENTSREGISTRATIONFORM.png)
 
-- Patient Registration Success
+- Patient's Welcome Page
+
+![Home Page](PATIENTSWELCOMEPAGE.png)
+
+- Patient'S Registration Successful
 
 ![Home Page](PATIENTINSERTEDSUCCESSFULLY.png)
 
@@ -88,13 +92,26 @@
 
 ![Home Page](SEARCHPATIENTBYCITYFROMHOMEPAGE.png)
 
-- Update Patient
+- Update Patient's Records
 
-![Home Page](DOCTOR'S_REGISTRATION_SUCCESSFUL.png)
+![Home Page](UPDATEPATIENTSDETAILS.png)
 
-- View Patient Details
+- Update Patient's Record Successful
 
-![Home Page](DOCTOR'S_REGISTRATION_SUCCESSFUL.png)
+![Home Page](PATIENTSRECORDUPDATEDSUCCESSFULLY.png)
+
+- View Patient Details & Search For Prescriptions
+
+![Home Page](VIEWPATIENTSDETAILS&CHECKPRESCRIPTION&ALL.png)
+
+- View Patient's Closed Prescriptions
+
+![Home Page](VIEWPATIENTSCLOSEDPRESCRIPTIONS.png)
+
+- View Patient's Closed Prescriptions
+
+![Home Page](VIEWPATIENTSOPENPRESCRIPTION.png)
+
 
 
 ### 💊 Prescription Module
