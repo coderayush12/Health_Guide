@@ -133,7 +133,22 @@
 
 ### 💊 Prescription Module
 - Enter Prescription
-- Search Prescription
+- Search Patient's Prescription
+
+![Home Page](SEARCHPATIENTSPRESCRIPTION.png)
+
+- Search Patient's Prescription By Date
+
+![Home Page](SEARCHPATIENTSPRESCRIPTIONBYDATE.png)
+
+- View Patient's Closed Prescriptions
+
+![Home Page](VIEWPATIENTSCLOSEDPRESCRIPTIONS.png)
+
+- View Patient's Open Prescriptions
+
+![Home Page](VIEWPATIENTSOPENPRESCRIPTION.png)
+
 - Update Prescription
 - Close Prescription
 
@@ -143,13 +158,10 @@
 
 ![Home Page](DISPLAYINGPATIENTSPRESCRIPTIONAFTERSEARCHING.png)
 
-- Display Patient's Prescription After Searching By Patient's City
-
-![Home Page](DISPLAYINGPATIENTSPRESCRIPTIONAFTERSEARCHINGBYPATIENTCITY.png)
 
 - Display Patient's Prescription After Searching By Date
 
-![Home Page](DISPLAYPATIENTSPRESCRIPTIONAFTERSEARCHINGBYdDATE.png)
+![Home Page](DISPLAYPATIENTSPRESCRIPTIONAFTERSEARCHINGBYDATE.png)
 
 
 
