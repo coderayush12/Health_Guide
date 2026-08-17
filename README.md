@@ -55,7 +55,7 @@
 
 - Doctor Registration
 
-![Home Page](DOCTOR'S_REGISTRATIONPAGE.png)
+![Home Page](DOCTOR'S_REGISTRATION.png)
 
 - Doctor Registration Success
 
@@ -67,7 +67,7 @@
 
 - View Doctor's Details
 
-![Home Page](VIEWDOCTOR'S_DETAILS.png)
+![Home Page](VIEWDOCTOR'SDETAILS.png)
 
 
 
